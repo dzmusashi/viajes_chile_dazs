@@ -2,4 +2,14 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
+    background-color: black;
+    color: white;
+}
+
+#quienes-somos p {
+    text-align: justify;
+}
+
+#destacados .card img{
+    height: 150px;
 }
